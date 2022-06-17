@@ -14,16 +14,17 @@ author: Jeff Tuning
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  School: "school"
+  Church: "aboutme"
+  School:
+    - School Information: "school"
     - School Calendar: "calendar"
     - Student Handbook: "handbook"
     - Jr Convention: "convention"
   Contact Us: "contact"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
