@@ -22,3 +22,8 @@ entries per event.
 5.	Each contestant may have only one (1) entry in an event. (For example, your school may have
 two (2) vocal mixed trios, but no student may be entered in both.)
 6.	Students who participate in any athletic events must enter at least one (1) nonathletic event.
+
+### Useful Links
+1.  Spelling List
+2.  [Event List](https://www.acestudentprograms.com/media/pageimg/CF13_EventsList-2022.pdf)
+3.  [Event Guidelines](https://www.acestudentprograms.com/media/pageimg/CompleteISCGuidelines_11-01-21.pdf)

@@ -1,17 +1,25 @@
 ---
 permalink: /contact/
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Contact Information
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Summer Office Hours*
+    Mon: 8:00am - 4:30pm
+    Tues: 8:00am - 4:30pm
+    Wed: 8:00am - 4:30pm
+    Thur: 8:00am - 4:30pm
+    Fri: By appointment
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Contact Numbers
+    Phone: 772-461-1225
+        Office: Option 1
+        Administrator: Option 2
+        Parsonage: Option 3
+    Fax: 772-461-0605
 
-What else do you need?
+### Email
+    OABCministries@gmail.com
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*Summer office hours aplicable June through July
