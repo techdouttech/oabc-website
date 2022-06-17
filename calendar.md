@@ -4,7 +4,7 @@ layout: page
 title: School Calendar
 subtitle: 2022-2023
 ---
-<a href="oabc-website/assets/pdfs/Tentative 2022-2023 Calendar.pdf">Download PDF</a>
+<a href="/assets/pdfs/Tentative 2022-2023 Calendar.pdf">Download PDF</a>
 ### 1st quarter
 **August 15th** – First Day of School<br />
 **September 2nd** – Half Day<br />
