@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Family Fellowship Night
+subtitle: Hosted by Nancy, Cheryll, & Melissa
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+tags: [church, family, event, fellowship]
 comments: true
 ---
 

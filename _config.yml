@@ -15,7 +15,11 @@ author: Jeff Tuning
 
 navbar-links:
   About Me: "aboutme"
-  Contact Us: "Contact"
+  School: "school"
+    - School Calendar: "calendar"
+    - Student Handbook: "handbook"
+    - Jr Convention: "convention"
+  Contact Us: "contact"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
