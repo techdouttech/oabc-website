@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Family Fellowship Night
-subtitle: Hosted by Nancy, Cheryll, & Melissa
+title: Gospel Sing & Family Fellowship
+subtitle: Hosted by Cheryl Karlson, Melisa Carroll, Nancy Parramore
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [church, family, event, fellowship]
