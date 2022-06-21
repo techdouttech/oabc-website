@@ -7,72 +7,26 @@ subtitle: Hosted by Cheryl Karlson, Melisa Carroll, Nancy Parramore
 tags: [church, family, event, fellowship]
 comments: true
 ---
+<center>
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+<h1><span style="color:blue">Gospel Sing & Family Fellowship</span></h1>
 
-**Here is some bold text**
+<h2><span style="color:red">Saturday June 25, 2022</span></h2><br />
 
-## Here is a secondary heading
+<h3>Orange Avenue Baptist Church</h3>
+100 Cyclone Drive, Ft. Pierce, FL 34945<br />
+(3.5 miles west of King's Hwy on Orange Ave)<br />
+<a href="tel:+17724611225">1-772-461-1225</a><br /><br />
 
-Here's a useless table:
+<span style="color:blue">4:00 - 5:00 pm Delicious Dinner<br />
+5:00 - 9:00 pm Open Mic & Game Time <br />
+(with snacks)<br /><br /></span>
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Puzzles, coloring, riddles, and boardgames will be set up<br />
+for kids and adults to enjoy together during the music!<br />
+Piano/keyboard and mics provided for singers and musicians<br /><br />
 
+<b>Please pre-register songs and times</b><br />
+<b>by PMing Cheryl Karlson through Facebook Messenger</b><br />
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+<a href="/assets/pdfs/Gospel Flyer.pdf">Download Flyer</a>
