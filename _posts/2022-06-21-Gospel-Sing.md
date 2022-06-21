@@ -29,4 +29,4 @@ Piano/keyboard and mics provided for singers and musicians<br /><br />
 <b>Please pre-register songs and times</b><br />
 <b>by PMing Cheryl Karlson through Facebook Messenger</b><br />
 
-<a href="/assets/pdfs/Gospel Flyer.pdf">Download Flyer</a>
+<a href="/assets/pdfs/Gospel-Flyer.pdf">Download Flyer</a>
