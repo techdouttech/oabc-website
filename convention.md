@@ -6,7 +6,7 @@ subtitle: January 13th & 14th, 2023
 ---
 We are excitedly anticipating hosting the “SOUTH FLORIDA ACE JUNIOR CONVENTION” on Friday and Saturday, January 13th and 14th 2023 here at Orange Avenue Baptist School. This Convention is for all students ages 8 years old (by January 1st) through 12 years old including those students who are ineligible for “Regional Student Convention” because their birthdays fall after December 31st.<br /><br />
 Schools must be registered by November 14th, 2022 along with an approximate number of students, sponsors and guests. If not – a $50.00 late registration fee will be added to your school.<br /><br />
-**YOU MUST REGISTER YOUR SCHOOL ONLINE AT:** [JRconvention.com](https://www.jrconvetnion.com) <br /><br />
+**YOU MUST REGISTER YOUR SCHOOL ONLINE AT:** [JRconvention.com](http://www.jrconvention.com/) <br /><br />
 Please call and confirm our receipt of your registration packet by December 14th, 2022 <a href="tel:+17724611225">(1-772-461-1225)</a>.<br /><br />
 Individual registration and Written Entries will be due December 12th, 2022.<br /><br />
 Registration fee for each participant is $60.00. Sponsors, guests and parents are $15.00 each. This covers breakfast on Friday and Saturday mornings, lunch on Friday, dinner on Friday evening, awards and a convention souvenir. **FEES MAY BE MAILED DIRECTLY TO ORANGE AVENUE BAPTIST SCHOOL OR PAID WHEN YOU ARRIVE FOR THE JUNIOR CONVENTION.**<br /><br />
