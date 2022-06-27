@@ -7,8 +7,6 @@ subtitle: June 26th, 2022
 tags: [church, bulletin, june, 2022]
 comments: true
 ---
-<center>
+<embed src="/assets/pdfs/bulletins/6-26-2022.pdf" type="application/pdf" width="1000px" height="1000px" />
 
-<embed src="/assets/pdfs/6-26-2022 Church Bulletin.pdf" type="application/pdf" width="1000px" height="1000px" />
-
-<a href="/assets/pdfs/6-26-2022 Church Bulletin.pdf">Download Bulletin</a>
+<a href="/assets/pdfs/bulletins/6-26-2022.pdf">Download Bulletin</a>
