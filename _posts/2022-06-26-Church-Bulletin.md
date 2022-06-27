@@ -9,6 +9,6 @@ comments: true
 ---
 <center>
 
-<embed src="6-26-2022-Church-Bulletin.pdf" width="800px" height="2100px" />
+<embed src="/assets/pdfs/6-26-2022 Church Bulletin.pdf" type="application/pdf" width="1000px" height="1000px" />
 
-<a href="/assets/pdfs/Gospel-Flyer.pdf">Download Flyer</a>
+<a href="/assets/pdfs/6-26-2022 Church Bulletin.pdf">Download Bulletin</a>
