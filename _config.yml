@@ -19,9 +19,9 @@ navbar-links:
 #    - Staff: "staff"
 #    - Location: "location"
   School:
-    - School Information: "school"
+#    - School Information: "school"
     - School Calendar: "calendar"
-    - Student Handbook: "handbook"
+#    - Student Handbook: "handbook"
     - South FL Jr Convention: "convention"
   Contact Us: "contact"
 #  Resources:
