@@ -6,10 +6,10 @@ subtitle:
 ---
 
 ### Summer Office Hours*
-> **Mon:** 8:00am - 5:00pm<br />
-> **Tues:** 8:00am - 5:00pm<br />
-> **Wed:** 8:00am - 5:00pm<br />
-> **Thur:** 8:00am - 5:00pm<br />
+> **Mon:** 8:00am - 4:30pm<br />
+> **Tues:** 8:00am - 4:30pm<br />
+> **Wed:** 8:00am - 4:30pm<br />
+> **Thur:** 8:00am - 4:30pm<br />
 > **Fri:** By appointment<br />
 
 <!---### Office Hours
