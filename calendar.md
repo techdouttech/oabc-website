@@ -37,8 +37,9 @@ subtitle: 2022-2023
 ### 4th Quarter
 **March 31st** – Report Cards<br />
 **April 6th** – Half Day<br />
-**April 7th** – Good Friday<br />
+**April 7th** – Good Friday No School<br />
 **April 10th through 14th** - Regional Student Convention<br />
 **May 5th** – Half Day<br />
+**May 13th through 18th** - International Student Convention <br />
 **May 26th** – Last Day of School / Half Day<br />
 **May 28th & 29th** Awards Nights<br />
