@@ -21,6 +21,7 @@ navbar-links:
   School:
     - School Information: "school"
     - School Calendar: "calendar"
+    - School Lunches: "lunch"
     - Student Handbook: "handbook"
     - South FL Jr Convention: "convention"
   Contact Us: "contact"
