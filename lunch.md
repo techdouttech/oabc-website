@@ -6,7 +6,7 @@ subtitle:
 ---
 
 ## Monday
-### Goodfellas Pizza
+### Pappy's Pizza
 **Cheese Pizza:** $1.25<br />
 **Pepperoni Pizza:** $1.50<br />
 **House Salad:** $3.00<br />
