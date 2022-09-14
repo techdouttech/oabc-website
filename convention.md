@@ -22,5 +22,5 @@ Students may enter eight **(8)** performance events, three **(3)** elimination e
 
 ### Useful Links
 1.  Spelling List
-2.  Event List
+2.  <a href="/assets/pdfs/school/JrCon Event List.pdf">Event List</a>
 3.  [Event Guidelines](https://www.acestudentprograms.com/media/pageimg/CompleteISCGuidelines_11-01-21.pdf)
