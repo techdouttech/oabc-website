@@ -4,7 +4,7 @@ title: Fall Festival 2022 Meeting
 subtitle: Sunday October 9th After Second Service
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [School, Weather, Announcements]
+tags: [Church, Fall Festival, Announcements]
 comments: true
 ---
 <center>
