@@ -21,6 +21,6 @@ Students may enter eight **(8)** performance events, three **(3)** elimination e
 6.	Students who participate in any athletic events must enter at least one (1) nonathletic event.
 
 ### Useful Links
-1.  <a href="/assets/pdfs/school/JrCon Books & Spelling.pdf">Spelling List</a>
-2.  <a href="/assets/pdfs/school/JrCon Event List.pdf">Event List</a>
+1.  <a href="/assets/pdfs/school/JrCon_Books_&_Spelling.pdf">Spelling List</a>
+2.  <a href="/assets/pdfs/school/JrCon_Event_List.pdf">Event List</a>
 3.  [Event Guidelines](https://www.acestudentprograms.com/media/pageimg/CompleteISCGuidelines_11-01-21.pdf)
