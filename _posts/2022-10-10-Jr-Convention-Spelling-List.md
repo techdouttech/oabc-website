@@ -4,7 +4,7 @@ title: Jr Convention Update
 subtitle: Bible Bowl & Spelling Words
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [School, Weather, Announcements]
+tags: [School, Convention, Announcements]
 comments: true
 ---
 <center>
