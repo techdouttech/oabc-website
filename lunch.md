@@ -55,4 +55,3 @@ Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 **McDouble:** $2.00<br />
 **McChicken:** $1.50<br />
 **Hamburger:** $1.00
-
