@@ -8,8 +8,6 @@ tags: [School, Lunch, Announcements]
 comments: true
 ---
 
-<center>
-
 Starting Tuesday October 25th lunch will be ordered from Wawa, and the options will be:<br /><br />
 
 <ul>
