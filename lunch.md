@@ -39,7 +39,7 @@ Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 ### Miranda's Subs & Bakery
 **Ham Sub: Half -** $5:00 **Whole -** $7.00<br />
 **Turkey Sub: Half -** $5.00 **Whole -** $8.50<br />
-**Roast Beef: Half -** $5.00 **Whole -** $8.50<br />
+**Roast Beef: Half -** $5.00 **Whole -** $9.50<br />
 **Philly Cheese Steak: Half -** $5.00 **Whole -** $8.50<br />
 **Garden Salad:** $7.00<br />
 **Grilled Chicken Salad:** $10.00
