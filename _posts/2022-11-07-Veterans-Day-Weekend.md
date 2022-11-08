@@ -10,7 +10,7 @@ comments: true
 
 Dear Parents, Guardians & Students,
 
-We are following the development of Subtropical Storm Nicole and at this time will be following our originally published calendar. In recognition of this Veterans Day holiday weekend, Thursday, November 10th, will be a half day of school dismissing at 12:00 and Friday, September 11th we will have no school.<br /><br />
+We are following the development of Subtropical Storm Nicole and at this time will be following our originally published calendar. In recognition of this Veterans Day holiday weekend, Thursday, November 10th, will be a half day of school dismissing at 12:00 and Friday, November 11th we will have no school.<br /><br />
 **Thursday** they will be allowed to dress down in jeans and T-shirts without the $1 dress down fee.<br /><br />
 **Thursday** there will be **NO LUNCH** offered. Please pick up your children promptly at noon.<br /><br />
 We will send home additional notes and publish announcements on our website as things develop.<br /><br />
