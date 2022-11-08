@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtropical Storm Nicole
-subtitle: 
+subtitle: School Closed Wednesday and Thursday
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [School, Weather, Announcements]
