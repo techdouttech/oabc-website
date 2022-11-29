@@ -26,7 +26,8 @@ subtitle:
 **Garden Salad -** $7.00<br />
 **Chef Salad -** $8.50<br />
 **Chicken Strip & Mac&Cheese Bowl -** $7.00<br />
-**Thanksgiving Bowl -** $9.00
+**Thanksgiving Bowl -** $9.00<br />
+**Meatball Parmesan Sub 10" -** $8.00
 
 ## Wednesday
 ### Panda Express
