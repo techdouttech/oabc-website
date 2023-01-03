@@ -37,7 +37,7 @@ Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 
 ## Thursday
 ### Wawa
-**See Tuesday's Menu.
+See Tuesday's Menu.
 
 ## Friday
 ### McDonald's
