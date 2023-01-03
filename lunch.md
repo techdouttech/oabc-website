@@ -26,7 +26,6 @@ subtitle:
 **Garden Salad -** $7.00<br />
 **Chef Salad -** $8.50<br />
 **Chicken Strip & Mac&Cheese Bowl -** $7.00<br />
-**Thanksgiving Bowl -** $9.00<br />
 **Meatball Parmesan Sub 10" -** $8.00
 
 ## Wednesday
@@ -37,13 +36,8 @@ Protien: Orange Chicken, Beef & Broccoli, Teriyaki<br />
 Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 
 ## Thursday
-### Miranda's Subs & Bakery
-**Ham Sub: Half -** $5:00 **Whole -** $7.00<br />
-**Turkey Sub: Half -** $5.00 **Whole -** $8.50<br />
-**Roast Beef: Half -** $5.00 **Whole -** $9.50<br />
-**Philly Cheese Steak: Half -** $5.00 **Whole -** $8.50<br />
-**Garden Salad:** $7.00<br />
-**Grilled Chicken Salad:** $10.00
+### Wawa
+**See Tuesday's Menu.
 
 ## Friday
 ### McDonald's
