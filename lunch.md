@@ -43,8 +43,8 @@ subtitle: Updated 1/30/2023
 ## Wednesday
 ### Panda Express
 **Lunch Bowl:** $6.50<br />
-Pick One Protien And One Base<br />
-Protien: Orange Chicken, Beef & Broccoli, Teriyaki<br />
+Pick One Protein And One Base<br />
+Protein: Orange Chicken, Beef & Broccoli, Teriyaki<br />
 Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 
 ## Thursday
@@ -56,7 +56,7 @@ See Tuesday's Menu.<br />
 **20 Piece Nuggets:** $6.50<br />
 **Big Mac:** $5.50<br />
 **1/4 Pounder:** $5.50<br />
-**Fish Sandwhich:**	$4.50<br />
+**Fish Sandwich:**	$4.50<br />
 **6 Piece Nuggets:** $3.50<br />
 **Small Fries:** $2.50<br />
 **McDouble:** $3.00<br />
