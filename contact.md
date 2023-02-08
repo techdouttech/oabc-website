@@ -24,7 +24,7 @@ subtitle:
 >   Office: Ext. 1<br />
 >   Administrator: Ext. 2<br />
 >   Parsonage: Ext. 3<br />
-> **Fax:** 772-461-0605<br />
+> **Fax:** 772-461-1226<br />
 
 ### Email
 > <OABCministries@gmail.com>
