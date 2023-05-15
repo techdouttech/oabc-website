@@ -42,4 +42,5 @@ subtitle: 2022-2023
 **May 5th** – Half Day: Noon Dismissal<br />
 **May 13th through 18th** - International Student Convention <br />
 **May 26th** – Last Day of School / Half Day: Noon Dismissal<br />
-**May 28th & 29th** Awards Nights<br />
+**May 26th** - Awards Night<br />
+**May 28th** - Graduation<br />
