@@ -5,28 +5,28 @@ title: Contact Information
 subtitle: 
 ---
 
-<!---### Summer Office Hours*
-> **Mon:** 8:00am - 4:30pm<br />
-> **Tues:** 8:00am - 4:30pm<br />
-> **Wed:** 8:00am - 4:30pm<br />
-> **Thur:** 8:00am - 4:30pm<br />
-> **Fri:** By appointment<br />--->
+### Summer Office Hours*
+> **Mon:** By appointments<br />
+> **Tues:** 9:00am - 2:00pm<br />
+> **Wed:** 9:00am - 2:00pm<br />
+> **Thur:** 9:00am - 2:00pm<br />
+> **Fri:** By appointment<br />
 
-### Office Hours
+<!---### Office Hours
 > **Mon:** 8:00am - 3:30pm<br />
 > **Tues:** 8:00am - 3:30pm<br />
 > **Wed:** 8:00am - 3:30pm<br />
 > **Thur:** 8:00am - 3:30pm<br />
-> **Fri:** 8:00am - 3:30pm<br />
+> **Fri:** 8:00am - 3:30pm<br />--->
 
 ### Contact Numbers
 > **Phone:** <a href="tel:+17724611225">1-772-461-1225</a><br />
 >   Office: Ext. 1<br />
 >   Administrator: Ext. 2<br />
->   Parsonage: Ext. 3<br />
+>   <!---Parsonage: Ext. 3<br />--->
 > **Fax:** 772-461-1226<br />
 
 ### Email
 > <OABCministries@gmail.com>
 
-<!---*Summer office hours aplicable June through July--->
+*Summer office hours aplicable June through July
