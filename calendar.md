@@ -2,9 +2,9 @@
 permalink: /calendar/
 layout: page
 title: School Calendar
-subtitle: 2022-2023
+subtitle: 2023-2024 Coming Soon
 ---
-<a href="/assets/pdfs/school/Tentative_2022-2023 Calendar.pdf">Download PDF</a>
+<!---<a href="/assets/pdfs/school/Tentative_2022-2023 Calendar.pdf">Download PDF</a>
 ### 1st quarter
 **August 15th** – First Day of School<br />
 **September 2nd** – Half Day: Noon Dismissal<br />
