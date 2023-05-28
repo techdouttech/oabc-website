@@ -6,7 +6,7 @@ subtitle:
 ---
 
 ### Summer Office Hours*
-> **Mon:** By appointments<br />
+> **Mon:** By appointment<br />
 > **Tues:** 9:00am - 2:00pm<br />
 > **Wed:** 9:00am - 2:00pm<br />
 > **Thur:** 9:00am - 2:00pm<br />
