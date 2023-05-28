@@ -24,4 +24,4 @@ Students may enter eight **(8)** performance events, three **(3)** elimination e
 ### Useful Links
 1.  <a href="/assets/pdfs/school/JrCon_Books_&_Spelling.pdf">Bible Bowl & Spelling List</a>
 2.  <a href="/assets/pdfs/school/JrCon_Event_List.pdf">Event List</a>
-3.  [Event Guidelines](https://www.acestudentprograms.com/media/pageimg/CompleteISCGuidelines_11-01-21.pdf)
+3.  [Event Guidelines](https://www.acestudentprograms.com/media/pageimg/CompleteISCGuidelines_11-01-21.pdf)--->
