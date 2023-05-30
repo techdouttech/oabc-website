@@ -14,13 +14,13 @@ subtitle: 2023-2024 Coming Soon
 ### 2nd Quarter
 **October 13th** – Report Cards<br />
 **October 27th** – Half Day: Noon Dismissal<br />
-**October 28th** – Orange Avenue Fall Festival
-**October 30th** – No School
+**October 28th** – Orange Avenue Fall Festival<br />
+**October 30th** – No School<br />
 **November 10th** – Veterans Day No School<br />
 **November 17th** – Half Day: Noon Dismissal<br />
 **November 20th through 24th** – Thanksgiving Break: No School<br />
 **December 15th** – Half Day: Noon Dismissal<br />
-**December 15th** – End of 2nd Quarter
+**December 15th** – End of 2nd Quarter<br />
 ### 3rd Quarter
 **December 18th through December 29th** – Christmas Break No School<br />
 **January 1st** – New Years Day Observed No School<br />
@@ -32,7 +32,7 @@ subtitle: 2023-2024 Coming Soon
 **January 20th** – Report Cards<br />
 **February 16th** – Half Day: Noon Dismissal<br />
 **February 19th** – Presidents’ Day No School<br />
-**March 1st** – End of 3rd Quarter
+**March 1st** – End of 3rd Quarter<br />
 ### 4th Quarter
 **March 4th & 6th** - IOWA Testing<br />
 **March 8th** – Report Cards<br />
