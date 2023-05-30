@@ -4,7 +4,7 @@ layout: page
 title: South Florida ACE Jr Convention
 subtitle: January 12th & 13th, 2024
 ---
-Details Coming Soon
+Details Coming Soon<br />
 <!--
 We are excitedly anticipating hosting the “SOUTH FLORIDA ACE JUNIOR CONVENTION” on Friday and Saturday, January 13th and 14th 2023 here at Orange Avenue Baptist School. This Convention is for all students ages 8 years old (by January 1st) through 12 years old including those students who are ineligible for “Regional Student Convention” because their birthdays fall after December 31st.<br /><br />
 Schools must be registered by November 14th, 2022 along with an approximate number of students, sponsors and guests. If not – a $50.00 late registration fee will be added to your school.<br /><br />
