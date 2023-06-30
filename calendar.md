@@ -34,7 +34,7 @@ subtitle: 2023-2024 Coming Soon
 **February 19th** – Presidents’ Day No School<br />
 **March 1st** – End of 3rd Quarter<br />
 ### 4th Quarter
-**March 4th & 6th** - IOWA Testing<br />
+**March 5th & 6th** - IOWA Testing<br />
 **March 8th** – Report Cards<br />
 **March 15th** – Half Day: Noon Dismissal<br />
 **March 18th through 22nd** – Spring Break No School<br />
