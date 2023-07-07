@@ -4,10 +4,11 @@ layout: page
 title: Contact Information
 subtitle: 
 ---
-
-### Summer Office Hours*
+### Office Hours
 **Office is closed July 10th through 14th**
-<!--- > **Mon:** By appointment<br />
+
+<!--- ### Summer Office Hours*
+> **Mon:** By appointment<br />
 > **Tues:** 9:00am - 2:00pm<br />
 > **Wed:** 9:00am - 2:00pm<br />
 > **Thur:** 9:00am - 2:00pm<br />
