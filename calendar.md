@@ -43,5 +43,5 @@ subtitle: 2023-2024 Coming Soon
 **April 1st through 4th** - Regional Student Convention<br />
 **May 5th** – Class of 2024 Graduation<br />
 **May 9th** – Last Day of School / Half Day: Noon Dismissal<br />
-**May 10h** – Awards Night<br />
-**May 23th through June 1st** – International Student Convention <br />
+**May 10th** – Awards Night<br />
+**May 23rd through June 1st** – International Student Convention <br />
