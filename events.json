@@ -1,0 +1,187 @@
+[
+    {
+        "title": "First Day of School",
+        "date": "2023-08-08",
+        "description": "August 8th – First Day of School"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2023-09-01",
+        "description": "September 1st – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Labor Day No School",
+        "date": "2023-09-04",
+        "description": "September 4th – Labor Day No School"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2023-09-29",
+        "description": "September 29th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "End of 1st Quarter",
+        "date": "2023-10-06",
+        "description": "October 6th – End of 1st Quarter"
+    },
+    {
+        "title": "Report Cards",
+        "date": "2023-10-13",
+        "description": "October 13th – Report Cards"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2023-10-27",
+        "description": "October 27th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Orange Avenue Fall Festival",
+        "date": "2023-10-28",
+        "description": "October 28th – Orange Avenue Fall Festival"
+    },
+    {
+        "title": "No School",
+        "date": "2023-10-30",
+        "description": "October 30th – No School"
+    },
+    {
+        "title": "Veterans Day No School",
+        "date": "2023-11-10",
+        "description": "November 10th – Veterans Day No School"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2023-11-17",
+        "description": "November 17th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Thanksgiving Break: No School",
+        "date": "2023-11-20",
+        "endDate": "2023-11-24",
+        "description": "November 20th through 24th – Thanksgiving Break: No School"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2023-12-15",
+        "description": "December 15th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "End of 2nd Quarter",
+        "date": "2023-12-15",
+        "description": "December 15th – End of 2nd Quarter"
+    },
+    {
+        "title": "Christmas Break No School",
+        "date": "2023-12-18",
+        "endDate": "2023-12-29",
+        "description": "December 18th through December 29th – Christmas Break No School"
+    },
+    {
+        "title": "New Years Day Observed No School",
+        "date": "2024-01-01",
+        "description": "January 1st – New Years Day Observed No School"
+    },
+    {
+        "title": "Return to School",
+        "date": "2024-01-02",
+        "description": "January 2nd – Return to School"
+    },
+    {
+        "title": "Report Cards",
+        "date": "2024-01-05",
+        "description": "January 5th – Report Cards"
+    },
+    {
+        "title": "Half Day Jr Convention Setup: Noon Dismissal",
+        "date": "2024-01-11",
+        "description": "January 11th – Half Day Jr Convention Setup: Noon Dismissal"
+    },
+    {
+        "title": "Jr Convention",
+        "date": "2024-01-12",
+        "endDate": "2024-01-13",
+        "description": "January 12th & 13th – Jr Convention"
+    },
+    {
+        "title": "Martin Luther King Day No School",
+        "date": "2024-01-15",
+        "description": "January 15th – Martin Luther King Day No School"
+    },
+    {
+        "title": "Report Cards",
+        "date": "2024-01-20",
+        "description": "January 20th – Report Cards"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2024-02-16",
+        "description": "February 16th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Presidents’ Day No School",
+        "date": "2024-02-19",
+        "description": "February 19th – Presidents’ Day No School"
+    },
+    {
+        "title": "End of 3rd Quarter",
+        "date": "2024-03-01",
+        "description": "March 1st – End of 3rd Quarter"
+    },
+    {
+        "title": "IOWA Testing",
+        "date": "2024-03-05",
+        "description": "March 5th & 6th - IOWA Testing"
+    },
+    {
+        "title": "Report Cards",
+        "date": "2024-03-08",
+        "description": "March 8th – Report Cards"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2024-03-15",
+        "description": "March 15th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Spring Break No School",
+        "date": "2024-03-18",
+        "endDate": "2024-03-22",
+        "description": "March 18th through 22nd – Spring Break No School"
+    },
+    {
+        "title": "Half Day: Noon Dismissal",
+        "date": "2024-03-28",
+        "description": "March 28th – Half Day: Noon Dismissal"
+    },
+    {
+        "title": "Good Friday No School",
+        "date": "2024-03-29",
+        "description": "March 29th – Good Friday No School"
+    },
+    {
+        "title": "Regional Student Convention",
+        "date": "2024-04-01",
+        "endDate": "2024-04-04",
+        "description": "April 1st through 4th - Regional Student Convention"
+    },
+    {
+        "title": "Class of 2024 Graduation",
+        "date": "2024-05-05",
+        "description": "May 5th – Class of 2024 Graduation"
+    },
+    {
+        "title": "Last Day of School / Half Day: Noon Dismissal",
+        "date": "2024-05-09",
+        "description": "May 9th – Last Day of School / Half Day: Noon Dismissal"
+    },
+   {
+    "title": "Awards Night",
+    "date": "2024-05-10",
+    "description": "May 10th – Awards Night"
+    },
+  {
+    "title": "International Student Convention",
+    "date": "2024-05-23",
+    "endDate": "2024-06-01",
+    "description": "May 23rd through June 1st – International Student Convention"
+    }
