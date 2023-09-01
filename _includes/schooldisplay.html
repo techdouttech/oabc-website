@@ -11,20 +11,20 @@
     </div>
 
     <script>
+        const hourOfReset = 16; // 4:00PM, must be configured in code
+
         function displayUpcomingEvents() {
             var currentDate = new Date();
-            var fiveDaysFromNow = new Date();
-            fiveDaysFromNow.setDate(fiveDaysFromNow.getDate() + 5);
+            var fiveDaysFromNow = new Date(currentDate.getTime() + 5 * 24 * 60 * 60 * 1000); //Add five days to currentDate for a perfect 5 day range of comparison
 
-            // Fetch the events from the JSON file
             fetch('assets/json/events.json')
                 .then(function (response) {
                     return response.json();
                 })
                 .then(function (events) {
                     var upcomingEvents = events.filter(function (event) {
-                        // Include events happening today or within the next 5 days
-                        var eventDate = new Date(event.date);
+                       
+                        var eventDate = importDateWithCurrentTimezone(event.date).setHours(hourOfReset, 0, 0, 0);
                         return eventDate >= currentDate && eventDate <= fiveDaysFromNow;
                     });
 
@@ -37,7 +37,7 @@
 
                         upcomingEvents.forEach(function (event) {
                             var listItem = document.createElement("li");
-                            listItem.innerHTML = `<strong>${event.title}</strong> - ${new Date(event.date).toDateString()}<br>${event.description}`;
+                            listItem.innerHTML = `<strong>${event.title}</strong> - ${importDateWithCurrentTimezone(event.date).toDateString()}<br>${event.description}`;
                             eventList.appendChild(listItem);
                         });
 
@@ -47,13 +47,16 @@
                 .catch(function (error) {
                     console.error('Error fetching events:', error);
                 });
-
-                    console.log("Upcoming Events:", upcomingEvents);          
         }
 
-        // Call the function to display upcoming events when the page loads
+       
         displayUpcomingEvents();
 
+        function importDateWithCurrentTimezone(date) {
+          //Allow import of non-timezone specified strings interpreting them as current timezone
+          return new Date(new Date(date).getTime() + new Date().getTimezoneOffset() * 60 * 1000);
+        }
     </script>
 </body>
+</html>
 </html>
