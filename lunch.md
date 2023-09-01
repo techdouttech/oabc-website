@@ -2,7 +2,7 @@
 permalink: /lunch/
 layout: page
 title: Lunches
-subtitle: (Will be Updated in August)
+subtitle: 
 ---
 
 ## Monday
