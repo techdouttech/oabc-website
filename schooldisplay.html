@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Display</title>
+</head>
+<body>
+    <div id="upcoming-events">
+        <!-- Upcoming events will be displayed here -->
+    </div>
+
+    <script>
+        function displayUpcomingEvents() {
+            var currentDate = new Date();
+            var fiveDaysFromNow = new Date();
+            fiveDaysFromNow.setDate(fiveDaysFromNow.getDate() + 5);
+
+            // Fetch the events from the JSON file in the assets/json/ folder
+            fetch('assets/json/events.json')
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (events) {
+                    var upcomingEvents = events.filter(function (event) {
+                        return new Date(event.date) >= currentDate && new Date(event.date) <= fiveDaysFromNow;
+                    });
+
+                    var upcomingEventsContainer = document.getElementById("upcoming-events");
+
+                    if (upcomingEvents.length === 0) {
+                        upcomingEventsContainer.innerHTML = "No upcoming events in the next 5 days.";
+                    } else {
+                        var eventList = document.createElement("ul");
+
+                        upcomingEvents.forEach(function (event) {
+                            var listItem = document.createElement("li");
+                            listItem.innerHTML = `<strong>${event.title}</strong> - ${new Date(event.date).toDateString()}<br>${event.description}`;
+                            eventList.appendChild(listItem);
+                        });
+
+                        upcomingEventsContainer.appendChild(eventList);
+                    }
+                })
+                .catch(function (error) {
+                    console.error('Error fetching events:', error);
+                });
+        }
+
+        // Call the function to display upcoming events when the page loads
+        displayUpcomingEvents();
+    </script>
+</body>
+</html>
