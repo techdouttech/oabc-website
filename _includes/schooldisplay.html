@@ -23,7 +23,9 @@
                 })
                 .then(function (events) {
                     var upcomingEvents = events.filter(function (event) {
-                        return new Date(event.date) >= currentDate && new Date(event.date) <= fiveDaysFromNow;
+                        // Include events happening today or within the next 5 days
+                        var eventDate = new Date(event.date);
+                        return eventDate >= currentDate && eventDate <= fiveDaysFromNow;
                     });
 
                     var upcomingEventsContainer = document.getElementById("upcoming-events");
