@@ -39,16 +39,26 @@ Administrator: Ext. 2<br />
 Records Request: <a href="mailto:records@oabcministries.org">records@oabcministries.org</a></p>
 
 <script>
-    // Function to display office hours based on the current month
+    // Function to display office hours based on the current date
     function displayOfficeHours() {
         var today = new Date();
         var currentMonth = today.getMonth() + 1; // Months are zero-based, so add 1
-        var summerMonths = [5, 6, 7]; // May, June, and July are summer months
+        var currentDay = today.getDate();
+
+        // Define the start date (May 10th) and end date (July 31st) for summer office hours
+        var summerStartMonth = 5; // May
+        var summerStartDate = 10; // May 10th
+        var summerEndMonth = 7; // July
+        var summerEndDate = 31; // July 31st
 
         var summerOfficeHoursDiv = document.getElementById('summerOfficeHours');
         var regularOfficeHoursDiv = document.getElementById('regularOfficeHours');
 
-        if (summerMonths.includes(currentMonth)) {
+        if (
+            (currentMonth === summerStartMonth && currentDay >= summerStartDate) ||
+            (currentMonth === summerEndMonth && currentDay <= summerEndDate) ||
+            (currentMonth > summerStartMonth && currentMonth < summerEndMonth)
+        ) {
             summerOfficeHoursDiv.style.display = 'block'; // Show summer office hours
             regularOfficeHoursDiv.style.display = 'none'; // Hide regular office hours
         } else {
