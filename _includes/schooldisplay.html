@@ -16,8 +16,6 @@
             var fiveDaysFromNow = new Date();
             fiveDaysFromNow.setDate(fiveDaysFromNow.getDate() + 5);
 
-             console.log("Current Date:", currentDate);
-
             // Fetch the events from the JSON file
             fetch('assets/json/events.json')
                 .then(function (response) {
@@ -29,8 +27,6 @@
                         var eventDate = new Date(event.date);
                         return eventDate >= currentDate && eventDate <= fiveDaysFromNow;
                     });
-
-                    console.log("Upcoming Events:", upcomingEvents);
 
                     var upcomingEventsContainer = document.getElementById("upcoming-events");
 
@@ -51,9 +47,8 @@
                 .catch(function (error) {
                     console.error('Error fetching events:', error);
                 });
-          
-            console.log(`Current Date and Time: ${currentDate}`);
-            console.log(`Server Timezone: ${timezone}`);
+
+                    console.log("Upcoming Events:", upcomingEvents);          
         }
 
         // Call the function to display upcoming events when the page loads
