@@ -16,7 +16,7 @@
             var fiveDaysFromNow = new Date();
             fiveDaysFromNow.setDate(fiveDaysFromNow.getDate() + 5);
 
-            // Fetch the events from the JSON file in the assets/json/ folder
+            // Fetch the events from the JSON file
             fetch('assets/json/events.json')
                 .then(function (response) {
                     return response.json();
