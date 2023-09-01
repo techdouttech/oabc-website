@@ -2,7 +2,7 @@
 permalink: /calendar/
 layout: page
 title: School Calendar
-subtitle: 2023-2024 Coming Soon
+subtitle: 2023-2024
 ---
 <a href="/assets/pdfs/school/2023-2024_Tentative_Calendar.pdf">Download PDF</a>
 ### 1st quarter
