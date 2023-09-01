@@ -48,7 +48,7 @@ Records Request: <a href="mailto:records@oabcministries.org">records@oabcministr
         // Define the start date (May 10th) and end date (July 31st) for summer office hours
         var summerStartMonth = 5; // May
         var summerStartDate = 10; // May 10th
-        var summerEndMonth = 9; // July
+        var summerEndMonth = 7; // July
         var summerEndDate = 31; // July 31st
 
         var summerOfficeHoursDiv = document.getElementById('summerOfficeHours');
