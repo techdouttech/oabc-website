@@ -11,8 +11,7 @@
     </div>
 
     <script>
-        console.log("Current Date:", currentDate);
-        function displayUpcomingEvents() {
+                function displayUpcomingEvents() {
             var currentDate = new Date();
             var fiveDaysFromNow = new Date();
             fiveDaysFromNow.setDate(fiveDaysFromNow.getDate() + 5);
@@ -52,6 +51,7 @@
 
         // Call the function to display upcoming events when the page loads
         displayUpcomingEvents();
+        console.log("Current Date:", currentDate);
         console.log("Upcoming Events:", upcomingEvents);
         console.log(`Current Date and Time: ${currentDate}`);
         console.log(`Server Timezone: ${timezone}`);
