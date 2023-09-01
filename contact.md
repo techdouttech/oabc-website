@@ -7,19 +7,19 @@ subtitle:
 <!--- ### Office Hours
 **Office is closed July 10th through 14th** --->
 
-### Summer Office Hours*
+<!---### Summer Office Hours*
 > **Mon:** By appointment<br />
 > **Tues:** 9:00am - 2:00pm<br />
 > **Wed:** 9:00am - 2:00pm<br />
 > **Thur:** 9:00am - 2:00pm<br />
-> **Fri:** By appointment<br />
+> **Fri:** By appointment<br />--->
 
-<!---### Office Hours
+### Office Hours
 > **Mon:** 8:00am - 3:30pm<br />
 > **Tues:** 8:00am - 3:30pm<br />
 > **Wed:** 8:00am - 3:30pm<br />
 > **Thur:** 8:00am - 3:30pm<br />
-> **Fri:** 8:00am - 3:30pm<br />--->
+> **Fri:** 8:00am - 3:30pm<br />
 
 ### Contact Numbers
 > **Phone:** <a href="tel:+17724611225">1-772-461-1225</a><br />
@@ -32,4 +32,4 @@ subtitle:
 > General Inquries: <office@oabcministries.org><br />
 > Records Reuqest: <records@oabcministries.org>
 
-*Summer office hours aplicable June through July
+<!---*Summer office hours aplicable June through July--->
