@@ -13,16 +13,16 @@ comments: true
 
 <h3>Download the provided documents from the seminar from the links bellow.</h3><br />
 
-<a href="assets/pdfs/events/FINANCIAL_WELLBEING_SEMINAR.pptx">PowerPoint Presentation</a><br />
+<a href="/assets/pdfs/events/FINANCIAL_WELLBEING_SEMINAR.pptx">PowerPoint Presentation</a><br />
 
-<a href="assets/pdfs/events/Annuities.pdf">Annuities</a><br />
+<a href="/assets/pdfs/events/Annuities.pdf">Annuities</a><br />
 
-<a href="assets/pdfs/events/Budget_Worksheet.pdf">Budget Worksheet</a><br />
+<a href="/assets/pdfs/events/Budget_Worksheet.pdf">Budget Worksheet</a><br />
 
-<a href="assets/pdfs/events/Digital_Assets.PDF">Digital Assets</a><br />
+<a href="/assets/pdfs/events/Digital_Assets.PDF">Digital Assets</a><br />
 
-<a href="assets/pdfs/events/Digital_Currency.PDF">Digital Currency</a><br />
+<a href="/assets/pdfs/events/Digital_Currency.PDF">Digital Currency</a><br />
 
-<a href="assets/pdfs/events/Paying_College.PDF">Paying for College</a><br />
+<a href="/assets/pdfs/events/Paying_College.PDF">Paying for College</a><br />
 
-<a href="assets/pdfs/events/Recession.PDF">Recession</a>
+<a href="/assets/pdfs/events/Recession.PDF">Recession</a>
