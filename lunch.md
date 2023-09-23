@@ -44,7 +44,7 @@ subtitle:
 ### Panda Express
 **Lunch Bowl:** $6.50<br />
 Pick One Protein And One Base<br />
-Protein: Orange Chicken, Beef & Broccoli, Teriyaki<br />
+Protein: Orange Chicken, Beef & Broccoli, Teriyaki Chicken<br />
 Base: Fried Rice, Steamed Rice, Chow Mein, Steamed Veggies<br />
 
 ## Thursday
