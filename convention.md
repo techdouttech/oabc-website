@@ -21,6 +21,9 @@ Students may enter eight **(8)** performance events, three **(3)** elimination e
 5.	Each contestant may have only one (1) entry in an event. (For example, your school may have two (2) vocal mixed trios, but no student may be entered in both.)
 6.	Students who participate in any athletic events must enter at least one (1) nonathletic event.
 
+### Early & Written Entry Events
+Early & Written Entry events such as Power Point, Website Design, Essay, Poetry, Short Story, Radio Program and Scripture video should be emailed to [EarlyEntry@OABCministries.org](mailto:earlyentry@oabcministries.org). Please in the Subject line of the email please include the Students Name - School and Event. Example (Jeff Tuning - Orange Avenue - Website Design)
+
 ### Useful Links
 1.  <a href="/assets/pdfs/school/JrCon_Books_&_Spelling_2024.pdf">Bible Bowl & Spelling List</a>
 2.  <a href="/assets/pdfs/school/JrCon_Event_List.pdf">Event List</a>
