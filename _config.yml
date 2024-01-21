@@ -15,6 +15,7 @@ author: Jeff Tuning
 
 navbar-links:
   Church: # "aboutme"
+    -  Ministry Signup: "https://forms.office.com/r/AwgX2W0VSN"
 #    - History: "history"
 #    - Staff: "staff"
 #    - Location: "location"
@@ -23,6 +24,7 @@ navbar-links:
     - School Calendar: "calendar"
     - School Lunches: "lunch"
     - Student Handbook: "handbook"
+#   - Student Microsoft Login: " "
     - South FL Jr Convention: "convention"
     - Standards of Ethical Conduct: "ethics"
   Contact Us: "contact"
