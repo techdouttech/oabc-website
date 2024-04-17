@@ -41,6 +41,7 @@ subtitle: 2023-2024
 **March 28th** – Half Day: Noon Dismissal<br />
 **March 29th** – Good Friday No School<br />
 **April 1st through 4th** - Regional Student Convention<br />
+**April 19th** - Half Day: Noon Dismissal<br />
 **May 5th** – Class of 2024 Graduation<br />
 **May 9th** – Last Day of School / Half Day: Noon Dismissal<br />
 **May 10th** – Awards Night<br />
