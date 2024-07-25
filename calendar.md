@@ -41,6 +41,6 @@ subtitle: 2024-2025
 **April 17th** – Half Day: Noon Dismissal<br />
 **April 18th** – Good Friday No School<br />
 **May 11th** – Class of 2025 Graduation<br />
-**May 5th** – Last Day of School / Half Day: Noon Dismissal<br />
+**May 15th** – Last Day of School / Half Day: Noon Dismissal<br />
 **May 16th** – Awards Night<br />
 **May 22nd through June 1st** – International Student Convention <br />
