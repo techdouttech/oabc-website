@@ -16,18 +16,18 @@ subtitle: 2025-2026
 **October 24th** – Half Day: Noon Dismissal<br />
 **October 25th** – Orange Avenue Fall Festival<br />
 **November 12th** – Veterans Day Recognized No School<br />
-**November 13th & 14th** - Educator Leadership Summit: No Scohol
+**November 13th & 14th** - Educator Leadership Summit: No Scohol<br />
 **November 21st** – Half Day: Noon Dismissal<br />
 **November 24th through 28th** – Thanksgiving Break: No School<br />
-**December 13th** – Half Day: Noon Dismissal<br />
+**December 12th** – Half Day: Noon Dismissal<br />
 **December 12th** – End of 2nd Quarter<br />
 ### 3rd Quarter
 **December 19th** - Report Cards<br />
 **December 19th** - Half Day: Noon Dismissal<br />
-**December 22nd through January 2nd** – Christmas Break No School<br />
+**December 22nd through January 3rd** – Christmas Break No School<br />
 **January 5th** – Return to School<br />
 **January 16th** – Half Day: Noon Dismissal<br />
-**January 20th** – Martin Luther King Day: No School<br />
+**January 19th** – Martin Luther King Day: No School<br />
 **February 12th** – Half Day: Noon Dismissal<br />
 **February 13th & 14th** - South Florida Junior Convention
 **February 16th** – Presidents’ Day No School<br />
