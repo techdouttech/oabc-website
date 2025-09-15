@@ -29,7 +29,7 @@ subtitle: 2025-2026
 **January 16th** – Half Day: Noon Dismissal<br />
 **January 19th** – Martin Luther King Day: No School<br />
 **February 12th** – Half Day: Noon Dismissal<br />
-**February 13th & 14th** - South Florida Junior Convention
+**February 13th & 14th** - South Florida Junior Convention<br />
 **February 16th** – Presidents’ Day No School<br />
 **February 27th** – End of 3rd Quarter<br />
 ### 4th Quarter
