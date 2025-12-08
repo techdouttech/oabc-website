@@ -19,7 +19,7 @@ subtitle: 2025-2026
 **November 13th & 14th** - Educator Leadership Summit: No Scohol<br />
 **November 21st** – Half Day: Noon Dismissal<br />
 **November 24th through 28th** – Thanksgiving Break: No School<br />
-**December 12th** – Half Day: Noon Dismissal<br />
+<p style="color:red;"><strong>**December 12th** Regular Day: 2:30 Dismissal</strong></p><br />
 **December 12th** – End of 2nd Quarter<br />
 ### 3rd Quarter
 **December 19th** - Report Cards<br />
