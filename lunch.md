@@ -20,16 +20,21 @@ subtitle:
 **BLT Classic -** $8.00<br />
 **Ham Junior -** $4.50<br />
 **Ham Classic -** $8.00<br />
+**Turkey Junior -** $4.50<br />
+**Turkey Classic -** $8.00<br />
+**Italian Classic -** $8.00<br />
 **Roast Beef Classic -** $8.50<br />
-**Meatball Parmesan Junior -** $5.00<br />
+**Bunless Chicken Salad -** $6.00<br />
+**Meatball Parmesan Junior -** $4.50<br />
 **Meatball Parmesan Classic -** $8.00<br />
+**Chrispy Chicken sandwich -** $7.50<br />
 
 **Bacon Chicken Ranch Snack Wrap -** $2.50<br />
 **Buffalo Chicken Snack Wrap -** $2.50<br />
 **Honey Hot Chicken Snack Wrap -** $2.50<br />
 
-**Chicken Strip & Mac&Cheese Bowl -** $7.00<br />
-**Cheesesteak Mac&Cheese Bowl -** $7.00<br />
+**Chicken Strip & Mac&Cheese Bowl -** $8.00<br />
+**Cheesesteak Mac&Cheese Bowl -** $8.00<br />
 
 **Cheese Quesadilla -** $5.00<br />
 **Beef & Cheese Quesadilla -** $6.50<br />
@@ -37,10 +42,10 @@ subtitle:
 **BBQ Chicken Quesadilla -** $6.50<br />
 **Buffalo Chicken Quesadilla -** $6.50<br />
 
-**Breaded Chicken BLT Salad -** $9.00<br />
+**Breaded Chicken BLT Salad -** $9.50<br />
 **Breaded Chicken Ceaser Salad -** $9.00<br />
-**Garden Salad -** $7.00<br />
-**Chef Salad -** $8.50<br />
+**Garden Salad -** $7.50<br />
+**Chef Salad -** $9.00<br />
 
 **Kids Meals (with cookie and chocolate milk)**<br />
 **3 Chicken Strips -** $6.25<br />
@@ -48,6 +53,8 @@ subtitle:
 **2 Meatballs -** $6.25<br />
 **Grilled Cheese Panini -** $5.00<br />
 
+**Sides**
+**Small Mac & Cheese** - $4.50
 
 ## Wednesday
 ### Panda Express
