@@ -53,8 +53,8 @@ subtitle:
 **2 Meatballs -** $6.25<br />
 **Grilled Cheese Panini -** $5.00<br />
 
-**Sides**
-**Small Mac & Cheese** - $4.50
+**Sides**<br />
+**Small Mac & Cheese** - $4.50<br />
 
 ## Wednesday
 ### Panda Express
